@@ -1,0 +1,14 @@
+h3 {
+    font-size: 16px;
+    text-shadow: grey;
+}
+
+.poster {
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
+    margin: 5px;
+}
+
+.yellow {
+    color: rgb(223, 189, 0);
+}
